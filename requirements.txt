@@ -1,5 +1,6 @@
 streamlit
-pandas
-numpy
+pandas==2.2.2
+numpy==2.0.2
 scikit-learn
 Sastrawi
+pip==24.1.2
