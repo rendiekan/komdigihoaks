@@ -1,6 +1,5 @@
-numpy==2.5.1
-pandas==1.4.4
-sastrawi-1.0.1-py2.py3
-pip==3.14.6
 streamlit
-scikit-learn==1.9.0
+pandas
+numpy
+scikit-learn
+Sastrawi
