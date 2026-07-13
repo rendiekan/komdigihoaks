@@ -1,6 +1,6 @@
-numpy
-pandas
+numpy==1.21.5
+pandas==1.4.4
 sastrawi-1.0.1-py2.py3-none-any.whl.metadata
-pip
+pip==22.2.2
 streamlit
 scikit-learn
