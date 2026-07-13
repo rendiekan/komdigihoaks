@@ -53,7 +53,7 @@ def clean_text(text):
 df['clean_title'] = df['title'].apply(clean_text)
 df['clean_body'] = df['body_text'].apply(clean_text)
 
-pip install sastrawi
+
 
 # Menghapus kata umum/stopwords
 from Sastrawi.StopWordRemover.StopWordRemoverFactory import StopWordRemoverFactory
