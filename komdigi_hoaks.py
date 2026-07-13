@@ -7,13 +7,10 @@ Original file is located at
     https://colab.research.google.com/drive/1tQpM2t9zL4YU5Lm1aXO19rhE8qQ28fLi
 """
 
-from google.colab import drive
-drive.mount('/content/drive')
-
 import pandas as pd
 
 # Memuat dataset
-df = pd.read_csv('drive/MyDrive/komdigi_hoaks.csv')
+df = pd.read_csv('komdigi_hoaks.csv')
 
 # Melihat data teratas
 print(df.head())
